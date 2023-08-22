@@ -5,7 +5,7 @@ This is the official code of [Spatial and Planar Consistency for Semi-Supervised
 ## Overview
 <p align="center">
 <img src="https://github.com/Yanfeng-Zhou/SPC/blob/main/figure/Overview.png" width="100%" ></img>
-<center>Architecture of LHCC</center>
+<br>Architecture of LHCC.
 </p>
 
 ## Quantitative Comparison
