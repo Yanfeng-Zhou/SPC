@@ -1,10 +1,10 @@
 ﻿# Spatial and Planar Consistency for Semi-Supervised Volumetric Medical Image Segmentation
 
-This is the official code of [Spatial and Planar Consistency for Semi-Supervised Volumetric Medical Image Segmentation](https://).
+This is the official code of [Spatial and Planar Consistency for Semi-Supervised Volumetric Medical Image Segmentation](https://) (BMVC 2023).
 
 ## Overview
 <p align="center">
-<img src="https://i.postimg.cc/Mptz9DBJ/figure-1.png#pic_center" width="100%" ></img>
+<img src="https://github.com/Yanfeng-Zhou/SPC/blob/main/figure/Overview.png" width="100%" ></img>
 <center>Architecture of LHCC</center>
 </p>
 
@@ -12,19 +12,14 @@ This is the official code of [Spatial and Planar Consistency for Semi-Supervised
 
 Comparison with state-of-the-art models on LA and P-CT test set. <font color="Red">**Red**</font> and **bold** indicate the best and second best performance.
 <p align="center">
-<img src="https://i.postimg.cc/zG4hpKR7/2D.png#pic_center" width="100%" >
+<img src="https://github.com/Yanfeng-Zhou/SPC/blob/main/figure/Comparison%20results.png" width="100%" >
 </p>
 
 ## Qualitative Comparison
 
 <p align="center">
-<img src="https://i.postimg.cc/4xTq9w6G/figure-5.png#pic_center" width="100%" >
-<center>Qualitative results on LA. (a) Ground truth. (b) MT. (c) DTC. (d) MC-Net. (e) MC-Net+. (f) LHCC. (g) SPC. The green arrows highlight the difference among of the results.</center>
-</p>
-
-<p align="center">
-<img src="https://i.postimg.cc/4xTq9w6G/figure-5.png#pic_center" width="100%" >
-<center>Qualitative results on P-CT. (a) Ground truth. (b) MT. (c) DTC. (d) MC-Net. (e) MC-Net+. (f) LHCC. (g) SPC. The green arrows highlight the difference among of the results.</center>
+<img src="https://github.com/Yanfeng-Zhou/SPC/blob/main/figure/Qualitative%20results.png" width="100%" >
+<center>Qualitative results on LA (left) and P-CT (right). (a) MT. (b) DTC. (c) MC-Net. (d) MC-Net+. (e) SPC. (f) Ground truth. The green arrows highlight the difference among of the results.</center>
 </p>
 
 ## Requirements
