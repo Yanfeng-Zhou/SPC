@@ -1,6 +1,6 @@
 ﻿# Spatial and Planar Consistency for Semi-Supervised Volumetric Medical Image Segmentation
 
-This is the official code of [Spatial and Planar Consistency for Semi-Supervised Volumetric Medical Image Segmentation](https://) (BMVC 2023).
+This is the official code of [Spatial and Planar Consistency for Semi-Supervised Volumetric Medical Image Segmentation](https://proceedings.bmvc2023.org/84/) (BMVC 2023).
 
 ## Overview
 <p align="center">
@@ -71,3 +71,13 @@ python -m torch.distributed.launch --nproc_per_node=4 test_SPC.py
 
 ## Citation
 If our work is useful for your research, please cite our paper:
+```
+@inproceedings{Zhou_2023_BMVC,
+author    = {Yanfeng Zhou and yiming huang and Ge Yang},
+title     = {Spatial and Planar Consistency for Semi-Supervised Volumetric Medical Image Segmentation},
+booktitle = {34th British Machine Vision Conference 2023, {BMVC} 2023, Aberdeen, UK, November 20-24, 2023},
+publisher = {BMVA},
+year      = {2023},
+url       = {https://papers.bmvc2023.org/0084.pdf}
+}
+```
